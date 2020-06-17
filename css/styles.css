@@ -164,6 +164,9 @@ p {
     text-align: center;
   }
 
+#pricing {
+  padding: 50px 10px 50px;
+}
   /* .big-heading {
     text-align: center;
   } */
